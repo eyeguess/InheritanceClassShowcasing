@@ -32,7 +32,7 @@ namespace InheritanceClassShowcasing
                             {
                                 try
                                 {
-                                    Console.WriteLine("Does it have buttons?");
+                                    Console.WriteLine("Does it have buttons? (Yes/No)");
                                     a.Button = Console.ReadLine();
                                     bool b1;
                                     if (b1 = a.Button.Equals(Y) || a.Button.Equals(y))
@@ -42,7 +42,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 a.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = a.Bluetooth.Equals(Y) || a.Bluetooth.Equals(y))
@@ -52,7 +52,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have a battery?");
+                                                            Console.WriteLine("Does it have a battery? (Yes/No)");
                                                             a.Battery = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = a.Battery.Equals(Y) || a.Battery.Equals(y))
@@ -80,7 +80,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have a battery?");
+                                                            Console.WriteLine("Does it have a battery? (Yes/No)");
                                                             a.Battery = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = a.Battery.Equals(Y) || a.Battery.Equals(y))
@@ -117,7 +117,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 a.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = a.Bluetooth.Equals(Y) || a.Bluetooth.Equals(y))
@@ -127,7 +127,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have a battery?");
+                                                            Console.WriteLine("Does it have a battery? (Yes/No)");
                                                             a.Battery = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = a.Battery.Equals(Y) || a.Battery.Equals(y))
@@ -155,7 +155,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have a battery?");
+                                                            Console.WriteLine("Does it have a battery? (Yes/No)");
                                                             a.Battery = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = a.Battery.Equals(Y) || a.Battery.Equals(y))
@@ -196,7 +196,7 @@ namespace InheritanceClassShowcasing
                             {
                                 try
                                 {
-                                    Console.WriteLine("Does it have buttons?");
+                                    Console.WriteLine("Does it have buttons? (Yes/No)");
                                     b.Button = Console.ReadLine();
                                     bool b1;
                                     if (b1 = b.Button.Equals(Y) || b.Button.Equals(y))
@@ -206,7 +206,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 b.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = b.Bluetooth.Equals(Y) || b.Bluetooth.Equals(y))
@@ -216,7 +216,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have ink?");
+                                                            Console.WriteLine("Does it have ink? (Yes/No)");
                                                             b.Ink = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = b.Ink.Equals(Y) || b.Ink.Equals(y))
@@ -244,7 +244,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have ink?");
+                                                            Console.WriteLine("Does it have ink? (Yes/No)");
                                                             b.Ink = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = b.Ink.Equals(Y) || b.Ink.Equals(y))
@@ -281,7 +281,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 b.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = b.Bluetooth.Equals(Y) || b.Bluetooth.Equals(y))
@@ -291,7 +291,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have ink?");
+                                                            Console.WriteLine("Does it have ink? (Yes/No)");
                                                             b.Ink = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = b.Ink.Equals(Y) || b.Ink.Equals(y))
@@ -319,7 +319,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have ink?");
+                                                            Console.WriteLine("Does it have ink? (Yes/No)");
                                                             b.Ink = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = b.Ink.Equals(Y) || b.Ink.Equals(y))
@@ -360,7 +360,7 @@ namespace InheritanceClassShowcasing
                             {
                                 try
                                 {
-                                    Console.WriteLine("Does it have buttons?");
+                                    Console.WriteLine("Does it have buttons? (Yes/No)");
                                     c.Button = Console.ReadLine();
                                     bool b1;
                                     if (b1 = c.Button.Equals(Y) || c.Button.Equals(y))
@@ -370,7 +370,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 c.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = c.Bluetooth.Equals(Y) || c.Bluetooth.Equals(y))
@@ -380,7 +380,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have joysticks?");
+                                                            Console.WriteLine("Does it have joysticks? (Yes/No)");
                                                             c.Joystick = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = c.Joystick.Equals(Y) || c.Joystick.Equals(y))
@@ -408,7 +408,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have joysticks?");
+                                                            Console.WriteLine("Does it have joysticks? (Yes/No)");
                                                             c.Joystick = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = c.Joystick.Equals(Y) || c.Joystick.Equals(y))
@@ -445,7 +445,7 @@ namespace InheritanceClassShowcasing
                                         {
                                             try
                                             {
-                                                Console.WriteLine("Does it have bluetooth?");
+                                                Console.WriteLine("Does it have bluetooth? (Yes/No)");
                                                 c.Bluetooth = Console.ReadLine();
                                                 bool b2;
                                                 if (b2 = c.Bluetooth.Equals(Y) || c.Bluetooth.Equals(y))
@@ -455,7 +455,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have joysticks?");
+                                                            Console.WriteLine("Does it have joysticks? (Yes/No)");
                                                             c.Joystick = Console.ReadLine();
                                                             bool b3;
                                                             if (b3 = c.Joystick.Equals(Y) || c.Joystick.Equals(y))
@@ -483,7 +483,7 @@ namespace InheritanceClassShowcasing
                                                     {
                                                         try
                                                         {
-                                                            Console.WriteLine("Does it have joysticks?");
+                                                            Console.WriteLine("Does it have joysticks? (Yes/No)");
                                                             c.Joystick = Console.ReadLine(); ;
                                                             bool b3;
                                                             if (b3 = c.Joystick.Equals(Y) || c.Joystick.Equals(y))
